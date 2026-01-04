@@ -5,12 +5,12 @@ A Python package for debugging, monitoring, and interacting with running E2B san
 ## Installation
 
 ```bash
-pip install e2b-sandbox-inspector
+pip install git+https://github.com/cm2435/e2b_sandbox_inspector
 ```
 
 Or with uv:
 ```bash
-uv add e2b-sandbox-inspector
+uv add git+https://github.com/cm2435/e2b_sandbox_inspector
 ```
 
 ## Quick Start
